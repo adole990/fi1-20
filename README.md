@@ -15,7 +15,7 @@
 
 ## LÖSUNGEN FÜR DIE KAREL AUFGABEN
 
-- [AUFGABE 1](https://breakdance.github.io/breakdance/)
+- [AUFGABE 1](Aufgabe1.py)
 - [AUFGABE 2](https://breakdance.github.io/breakdance/)
 - [AUFGABE 3](https://breakdance.github.io/breakdance/)
 - [AUFGABE 4](https://breakdance.github.io/breakdance/)
