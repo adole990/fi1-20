@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## FI1/20 FIMAS - PYTHON
 
-You can use the [editor on GitHub](https://github.com/adole990/fi1-20/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+## LERNINHALTE  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+| DATUM | THEMA |
+| ------ | ------ |
+|` Sep-Okt `| [KAREL THE ROBOT](https://andyrinne.gnomio.com/course/view.php?id=7#section-0) |
+| `Sep-Okt` | [STRUCTURIZOR](https://andyrinne.gnomio.com/course/view.php?id=7#section-1) |
+|`Nov-Dec `|  [PYTHON Imperative](https://andyrinne.gnomio.com/course/view.php?id=16) |
+|`Ab Jan `|  [PYTHON OOP](https://andyrinne.gnomio.com/enrol/index.php?id=39) |
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## LÖSUNGEN FÜR DIE KAREL AUFGABEN
+*  [AUFGABE 1](Aufgabe1.py) |  [AUFGABE 2](aufgabe2.py) | [AUFGABE 3](aufgabe3.py) |  [AUFGABE 4](aufgabe4.py) | [AUFGABE 5](aufgabe5.py)
+*  [AUFGABE 6](aufgabe6.py) | [AUFGABE 7](aufgabe7.py)  | [AUFGABE 8](aufgabe8.py) |  [AUFGABE 9](aufgabe9.py) | [AUFGABE 10](aufgabe10.py)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/adole990/fi1-20/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## PYTHON IMPERATIVE  
+- [PROMILLERECHNER](Promillerechner.py) - PROJEKT
+- [Kopfrechenaufgabe](Kopfrechenaufgabe.class.py) - PROJEKT
