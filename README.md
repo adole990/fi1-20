@@ -16,14 +16,14 @@
 ## LÖSUNGEN FÜR DIE KAREL AUFGABEN
 
 - [AUFGABE 1](Aufgabe1.py)
-- [AUFGABE 2](Aufgabe2.py)
-- [AUFGABE 3](Aufgabe3.py)
-- [AUFGABE 4](Aufgabe4.py)
-- [AUFGABE 5](Aufgabe5.py)
-- [AUFGABE 6](Aufgabe6.py)
-- [AUFGABE 7](Aufgabe7.py)
-- [AUFGABE 8](Aufgabe8.py)
-- [AUFGABE 9](Aufgabe9.py)
-- [AUFGABE 10](Aufgabe10.py)
+- [AUFGABE 2](aufgabe2.py)
+- [AUFGABE 3](aufgabe3.py)
+- [AUFGABE 4](aufgabe4.py)
+- [AUFGABE 5](aufgabe5.py)
+- [AUFGABE 6](aufgabe6.py)
+- [AUFGABE 7](aufgabe7.py)
+- [AUFGABE 8](aufgabe8.py)
+- [AUFGABE 9](aufgabe9.py)
+- [AUFGABE 10](aufgabe10.py)
 
 
