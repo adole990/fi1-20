@@ -16,14 +16,14 @@
 ## LÖSUNGEN FÜR DIE KAREL AUFGABEN
 
 - [AUFGABE 1](Aufgabe1.py)
-- [AUFGABE 2](https://breakdance.github.io/breakdance/)
-- [AUFGABE 3](https://breakdance.github.io/breakdance/)
-- [AUFGABE 4](https://breakdance.github.io/breakdance/)
-- [AUFGABE 5](https://breakdance.github.io/breakdance/)
-- [AUFGABE 6](https://breakdance.github.io/breakdance/)
-- [AUFGABE 7](https://breakdance.github.io/breakdance/)
-- [AUFGABE 8](https://breakdance.github.io/breakdance/)
-- [AUFGABE 9](https://breakdance.github.io/breakdance/)
-- [AUFGABE 10](https://breakdance.github.io/breakdance/)
+- [AUFGABE 2](Aufgabe2.py)
+- [AUFGABE 3](Aufgabe3.py)
+- [AUFGABE 4](Aufgabe4.py)
+- [AUFGABE 5](Aufgabe5.py)
+- [AUFGABE 6](Aufgabe6.py)
+- [AUFGABE 7](Aufgabe7.py)
+- [AUFGABE 8](Aufgabe8.py)
+- [AUFGABE 9](Aufgabe9.py)
+- [AUFGABE 10](Aufgabe10.py)
 
 
