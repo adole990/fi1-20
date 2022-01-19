@@ -1,11 +1,13 @@
-# FI1/20 Informatik
+# FI1/20 FIMAS - PYTHON
 
-> PYTHON Befehlsübersicht
+> LERNINHALT
 
- <li>Kontrollstrukturen
+ <li>EINFÜHRUNG IN ALGORITHMEN
     <ul>
-      <li>Schleifen</li>
-      <li>for</li>
-      <li>while</li>
+      <li>KAREL THE ROBOT</li>
+      <li>TOP-DOWN METHODE</li>
+      <li>STRUCTURIZOR</li>
+      <li>IF-ELSE</li>
+      <li>WHILE-SCHLEIFE</li>
     </ul>
   </li>
