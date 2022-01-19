@@ -7,6 +7,7 @@
       <li>KAREL THE ROBOT</li>
       <li>TOP-DOWN METHODE</li>
       <li>STRUCTURIZOR</li>
+      <li>AUFGABEN MIT KAREL</li>
       <li>IF-ELSE</li>
       <li>WHILE-SCHLEIFE</li>
     </ul>
