@@ -1,16 +1,29 @@
 # FI1/20 FIMAS - PYTHON
 
-> LERNINHALT
+## LERNINHALTE
 
- <li>EINFÜHRUNG IN ALGORITHMEN
-    <ul>
-      <li>KAREL THE ROBOT</li>
-      <li>TOP-DOWN METHODE</li>
-      <li>STRUCTURIZOR</li>
-      <li>AUFGABEN MIT KAREL</li>
-      <li>IF-ELSE</li>
-      <li>WHILE-SCHLEIFE</li>
-    </ul>
-  </li>
-## Tech
-<img width="1092" alt="Screenshot 2022-01-18 at 16 57 27" src="https://user-images.githubusercontent.com/66831335/150172211-43d1aae7-fbcf-4104-a963-76bdf1eb4f15.png">
+| DATUM | THEMA |
+| ------ | ------ |
+|` Sep-Okt `| [KAREL THE ROBOT](https://andyrinne.gnomio.com/course/view.php?id=7#section-0) |
+|`Sep-Okt` | [TOP-DOWN METHODE](https://andyrinne.gnomio.com/course/view.php?id=7#section-0) |
+| `Sep-Okt` | [STRUCTURIZOR](https://andyrinne.gnomio.com/course/view.php?id=7#section-1) |
+|`Sep-Okt `| [AUFGABEN MIT KAREL](https://andyrinne.gnomio.com/course/view.php?id=7#section-6) |
+|`Nov-Dec` | [IF-ELSE](https://andyrinne.gnomio.com/course/view.php?id=7#section-1) |
+|`Nov-Dec` | [WHILE-SCHLEIFE](https://andyrinne.gnomio.com/course/view.php?id=7#section-1) |
+|`Nov-Dec `| [PYTHON GRUNDLAGEN](https://andyrinne.gnomio.com/course/view.php?id=16) |
+
+
+## LÖSUNGEN FÜR DIE KAREL AUFGABEN
+
+- [AUFGABE 1](https://breakdance.github.io/breakdance/)
+- [AUFGABE 2](https://breakdance.github.io/breakdance/)
+- [AUFGABE 3](https://breakdance.github.io/breakdance/)
+- [AUFGABE 4](https://breakdance.github.io/breakdance/)
+- [AUFGABE 5](https://breakdance.github.io/breakdance/)
+- [AUFGABE 6](https://breakdance.github.io/breakdance/)
+- [AUFGABE 7](https://breakdance.github.io/breakdance/)
+- [AUFGABE 8](https://breakdance.github.io/breakdance/)
+- [AUFGABE 9](https://breakdance.github.io/breakdance/)
+- [AUFGABE 10](https://breakdance.github.io/breakdance/)
+
+
