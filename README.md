@@ -20,14 +20,14 @@
 
 
 ## PYTHON IMPERATIVE  
-- [PROMILLERECHNER](Promillerechner.py) - PROJEKT
+- [Promillerechner](Promillerechner.py) - PROJEKT
 - [Kopfrechenaufgabe](Kopfrechenaufgabe.class.py) - PROJEKT
-- [Variablen](Kopfrechenaufgabe.class.py) - GRUNDLAGEN
-- [Bedingungen](Kopfrechenaufgabe.class.py) - GRUNDLAGEN
-- [Befehle und Module](Kopfrechenaufgabe.class.py) - GRUNDLAGEN
-- [Schleifen](Kopfrechenaufgabe.class.py) - GRUNDLAGEN
-- [Listen](Kopfrechenaufgabe.class.py) - GRUNDLAGEN
-- [Funktionen](Kopfrechenaufgabe.class.py) - GRUNDLAGEN
+- [Variablen](https://andyrinne.gnomio.com/course/view.php?id=16#section-6) - GRUNDLAGEN
+- [Bedingungen](https://andyrinne.gnomio.com/course/view.php?id=16#section-8) - GRUNDLAGEN
+- [Befehle und Module](https://andyrinne.gnomio.com/course/view.php?id=16#section-10) - GRUNDLAGEN
+- [Schleifen](https://andyrinne.gnomio.com/course/view.php?id=16#section-10) - GRUNDLAGEN
+- [Listen](https://andyrinne.gnomio.com/course/view.php?id=16#section-11) - GRUNDLAGEN
+- [Funktionen](https://andyrinne.gnomio.com/course/view.php?id=16#section-12) - GRUNDLAGEN
 
 
 ## PYTHON OOP   
